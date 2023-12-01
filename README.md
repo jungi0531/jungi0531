@@ -1,7 +1,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgublinmustang&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 [![Solved.ac
-hjg020531](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
+hjg020531](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{hjg020531})
 
 - 👋 Hi, I’m @gublinmustang
 - 👀 I’m interested in ...
